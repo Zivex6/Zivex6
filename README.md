@@ -6,7 +6,8 @@
 
 <ul>
   <li>🌱 Actualmente estoy aprendiendo <strong>Next.JS y MongoDB.</strong> </li>
-
+  <li>🏫 En la escuela, estoy aprendiendo <strong>Python</strong> </li>
+  <li>⚡ Fun fact: Cada vez que soluciono un bug, celebro como si fuera una victoria épica 🏆.</li>
 </ul>
 
 <h3 align="left">Idiomas y herramientas:</h3>
