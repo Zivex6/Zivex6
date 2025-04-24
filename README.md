@@ -5,11 +5,12 @@
 <br>
 
 <ul>
-  <li>🌱 I’m currently learning <strong>Next.JS & MongoDB</strong></li>
+  <li>🌱 Actualmente estoy aprendiendo <strong>Next.JS y MongoDB.</strong></li>
+  <li>🏫 En la escuela, estoy aprendiendo <strong>Python</strong><li>.
   <li>⚡ Fun fact: <strong>Cada vez que soluciono un bug, celebro como si fuera una victoria épica 🏆.</strong></li>
 </ul>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Idiomas y herramientas:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" class="tool-icon"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" class="tool-icon"/>
