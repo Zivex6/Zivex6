@@ -1,13 +1,12 @@
-<h1 align="left">Hi 👋, I'm Zivex</h1>
+<h1 align="left">Hola 👋, soy Zivex</h1>
 <h3 align="left">💻 Apasionado por la programación desde España. Me gusta el Frontend Development y también algo de Backend. 🚀 Además, me gusta crear interfaces UI/UX para hacerlas más bonitas y fáciles de usar. 🎨✨</h3>
 
 
 <br>
 
 <ul>
-  <li>🌱 Actualmente estoy aprendiendo <strong>Next.JS y MongoDB.</strong></li>
-  <li>🏫 En la escuela, estoy aprendiendo <strong>Python</strong><li>
-  <li>⚡ Fun fact: <strong>Cada vez que soluciono un bug, celebro como si fuera una victoria épica 🏆.</strong></li>
+  <li>🌱 Actualmente estoy aprendiendo <strong>Next.JS y MongoDB.</strong> </li>
+
 </ul>
 
 <h3 align="left">Idiomas y herramientas:</h3>
