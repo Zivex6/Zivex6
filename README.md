@@ -34,24 +34,18 @@
 <div style="margin-bottom: 40px;">
 <div style="font-size: 1.4em; font-weight: 700; margin-bottom: 15px; letter-spacing: 0.5px;">WHAT I WORK ON</div>
 <div style="line-height: 1.8; font-size: 1.05em;">
-<span style="color: #58a6ff;">▸</span> <b>Web Development:</b> Crafting high-performance websites with a focus on speed and SEO <br>
-<span style="color: #58a6ff;">▸</span> <b>Modern Interfaces:</b> Designing and implementing clean, intuitive, and responsive UI/UX <br>
-<span style="color: #58a6ff;">▸</span> <b>Database Integration:</b> Building scalable backends and managing data with <b>Supabase</b> and <b>MySQL</b> <br>
+<span style="color: #58a6ff;">▸</span> <b>Web Development:</b> Crafting high-performance websites with a focus on speed and SEO<br>
+<span style="color: #58a6ff;">▸</span> <b>Modern Interfaces:</b> Designing and implementing clean, intuitive, and responsive UI/UX<br>
+<span style="color: #58a6ff;">▸</span> <b>Database Integration:</b> Building scalable backends and managing data with <b>Supabase</b> and <b>MySQL</b><br>
 <span style="color: #58a6ff;">▸</span> <b>Discord Bots:</b> Developing custom bots to automate communities and enhance interaction
 </div>
 </div>
 <div style="height: 1px; background-color: #d7d7d7; border: none; margin: 25px 0;"></div>
 <div style="font-size: 1em; font-weight: 700; margin-bottom: 15px; letter-spacing: 0.5px; opacity: 0.1">CONTACT WITH ME (SOON)</div>
-<table width="100%" style="border-collapse: collapse; border: none; table-layout: fixed;">
+<table width="100%" style="border-collapse: collapse; border: none;">
 <tr style="border: none;">
-<td align="left" style="border: none; padding: 0; opacity: 0.1;">
-<a href="#" style="text-decoration: none; color: #444444; text-transform: uppercase; font-weight: 500; font-size: 0.9em;">Zivex's mail</a>
-</td>
-<td align="center" style="border: none; padding: 0; opacity: 0.1;">
-<a href="#" style="text-decoration: none; color: #444444; text-transform: uppercase; font-weight: 500; font-size: 0.9em;">Portfolio</a>
-</td>
-<td align="right" style="border: none; padding: 0; opacity: 0.1;">
-<span style="color: #444444; text-transform: uppercase; font-weight: 500; font-size: 0.9em;">Zivex's Discord</span>
-</td>
+<td align="left" style="border: none; padding: 0; opacity: 0.1;"><a href="#" style="text-decoration: none; color: #444444; text-transform: uppercase; font-weight: 500; font-size: 0.9em;">Zivex's mail</a></td>
+<td align="center" style="border: none; padding: 0; opacity: 0.1;"><a href="#" style="text-decoration: none; color: #444444; text-transform: uppercase; font-weight: 500; font-size: 0.9em;">Portfolio</a></td>
+<td align="right" style="border: none; padding: 0; opacity: 0.1;"><span style="color: #444444; text-transform: uppercase; font-weight: 500; font-size: 0.9em;">Zivex's Discord</span></td>
 </tr>
 </table>
